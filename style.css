@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0 ;}
+
+body{
+    background-image: url(image\ 152.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#navbarSupportedContent{
+    padding-left: 65%;
+    font-size: 1rem;
+    font-weight: 500;
+}
+.container h1{
+width: 550px;
+height: 183px;
+top: 200px;
+left: 149px;
+font-weight: 700px;
+size: 55px;
+line-height: 69.94px;
+margin-top: 80px;
+padding: 50px;
+margin-left:1px;
+color: white;
+}
+span{
+    color:#f01880;
+}
+.container h6{
+    width: 450px;
+    height: 183px;
+    top: 200px;
+    left: 149px;
+    font-weight: 700px;
+    size: 55px;
+    line-height: 29.94px;
+    margin-top: 80px;
+    padding: 50px;
+    margin-left:1px;
+    color: white;
+    }
+    .btn{
+        margin-left: 335px;
+    }
